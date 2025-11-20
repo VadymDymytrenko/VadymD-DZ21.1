@@ -1,0 +1,21 @@
+p {
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.no-style {
+    color: black;
+    font-size: 15px;
+}
+
+body {
+    background: lightgray;
+}
+
+#title {
+    color: darkgreen;
+    text-align: center;
+}
+
+.text {
+    font-size: 59px;
